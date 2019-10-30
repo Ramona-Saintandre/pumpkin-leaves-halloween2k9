@@ -1,11 +1,12 @@
-<span style="color:orange; font-family:Georgia; text-align:center; font-size:2em;;font-weight:bold" > :jack_o_lantern: Happy Falloween Project :jack_o_lantern:</span>
+<span style="color:orange; font-family:Georgia; text-align:center; font-size:2em;;font-weight:bold" > :jack_o_lantern: **Happy Falloween Project** :jack_o_lantern:</span>
 
-This is my animation project.  
+This is my first animation project.  
 It is the 3rd and final project of 3. 
 
 Here are the first two projects, which I ended up combining to make into this one.
 
-[Falling Leaves project](https://github.com/thenewmona/halloween-2019/tree/master/fall%20leaves)
+[Falling Leaves project](https://github.com/thenewmona/halloween-2019/tree/master/fall%20leaves)  
+
 [Bouncy Pumpkin project](https://github.com/thenewmona/halloween-2019/tree/master/pumpkin)
 
 I was looking to challenge myself and work on my CSS/HTML, and I was tired of doing login forms, navbars, contact pages, etc.  
