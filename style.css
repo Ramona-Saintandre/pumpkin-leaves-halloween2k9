@@ -143,9 +143,9 @@ img {
     font-size: 3em;
     font-weight: bold;
     position: relative;
-    top: 10px;
-    margin: 0;
-    padding: 0;
+    /*top: 10px;*/
+    margin-top: 5px;
+    padding-bottom: 0;
 
     /* -webkit-animation: animate 10s linear infinite;
             animation: animate 10s linear infinite; */
@@ -178,6 +178,7 @@ img {
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    margin-top: 25px;
 
 
 }
