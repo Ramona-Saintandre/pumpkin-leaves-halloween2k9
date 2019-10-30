@@ -1,4 +1,4 @@
-<span style="color:orange; font-family:Georgia; text-align:center; font-size:5em;font-weight:bold" > :jack_o_lantern: **Happy Fall-o-ween Project** :jack_o_lantern:</span>
+<span style= "text-align:center; color:orange; font-family:Georgia;  font-size:5em;font-weight:bold" > :jack_o_lantern: **Happy Fall-o-ween Project** :jack_o_lantern:</span>
 
 This is my first animation project.  
 It is the 3rd and final project of 3. 
