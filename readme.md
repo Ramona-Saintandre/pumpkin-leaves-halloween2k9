@@ -40,7 +40,7 @@ It was still fun to do.
 Well off to do the next project. :ghost:
 Since I live in Michigan, and we have a major :snowflake: snowstorm coming. 
 
-Think I need to make a ghost page with snow falling. :smiley:
+Think I need to make a ghost page with falling snow . :smiley:
 
 ## Resources used 
 
