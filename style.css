@@ -28,10 +28,10 @@ img {
     left: 0;
 }  
 
- .set div{
+ /* .set div{
     position: absolute;
     display: block;    
-} 
+}  */
 
 .set div:nth-child(1){
     left: 20%;
