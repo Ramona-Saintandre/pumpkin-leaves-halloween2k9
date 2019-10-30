@@ -41,4 +41,19 @@ Since I live in Michigan, and we have a major :snowflake: snowstorm coming.
 
 Think I need to make a ghost page with snow falling. :smiley:
 
+## Resources used 
+
+I used a lot of resources from Free Code Camp's Applied Visual Design section.
+
+Listed below are just some of them. 
+
+
+[Before and After pseudo elements explained - part one: how they work](https://www.youtube.com/watch?v=zGiirUiWslI)
+
+[CSS Animation Tutorial #4 - Keyframes](https://www.youtube.com/watch?v=PjR97QzOrJM)
+
+[Applied Visual Design: Use the CSS Transform scale Property to Scale an Element on Hover](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/use-the-css-transform-scale-property-to-scale-an-element-on-hover)
+
+[Applied Visual Design: Make a CSS Heartbeat using an Infinite Animation Count](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/make-a-css-heartbeat-using-an-infinite-animation-count)
+
 
